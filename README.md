@@ -1,6 +1,4 @@
 Documentation of Project Implementation for IPP 2021/2022
-Name and surname: Tadeáš Kozub
-Login: xkozub06
 
 # Implementation Details
 
